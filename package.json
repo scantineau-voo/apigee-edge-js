@@ -1,5 +1,5 @@
 {
-  "name": "apigee-edge-js",
+  "name": "@scantineau-obe/apigee-edge",
   "version": "0.4.36-SCA",
   "description": "nodejs library for the administration API for Apigee (Edge and X and hybrid).",
   "main": "index.js",
@@ -17,10 +17,7 @@
     "apigee",
     "edge"
   ],
-  "author": {
-    "name": "Dino Chiesa",
-    "email": "dchiesa@google.com"
-  },
+  "author": "Dino Chiesa <dchiesa@google.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "adm-zip": "^0.5.9",
@@ -56,5 +53,14 @@
         }
       }
     }
+  },
+  "bugs": {
+    "url": "https://github.com/scantineau-voo/apigee-edge-js/issues"
+  },
+  "homepage": "https://github.com/scantineau-voo/apigee-edge-js#readme",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
