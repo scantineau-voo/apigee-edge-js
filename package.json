@@ -1,5 +1,5 @@
 {
-  "name": "@scantineau-obe/apigee-edge",
+  "name": "apigee-edge-sca",
   "version": "0.4.36-SCA",
   "description": "nodejs library for the administration API for Apigee (Edge and X and hybrid).",
   "main": "index.js",
