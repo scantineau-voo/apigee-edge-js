@@ -1,6 +1,6 @@
 {
   "name": "apigee-edge-js",
-  "version": "0.4.36",
+  "version": "0.4.36-SCA",
   "description": "nodejs library for the administration API for Apigee (Edge and X and hybrid).",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DinoChiesa/apigee-edge-js.git"
+    "url": "git://github.com/scantineau-voo/apigee-edge-js.git"
   },
   "keywords": [
     "apigee",
